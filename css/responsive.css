@@ -1,0 +1,156 @@
+@media screen and (max-width:1200px){
+    
+    .main-nav ul li a{
+        font-size: 1.2rem;
+    }
+    
+    
+    
+    
+    .about-section .image-outer{
+        float:none;
+        text-align: center;
+    }
+    .about-section{
+        text-align: center;
+    }
+    
+    .footer-section  li{
+        margin:0 1rem;
+    }
+    
+    .footer-section li a{
+        font-size: 1.3rem;
+    }
+    
+}
+
+
+@media screen and (max-width:992px){
+    
+    .teaming .team-img{
+        width:14rem;
+    }
+    .teaming ul li{
+        margin-left: .5rem;
+    }
+    .port-image{
+        width:25rem;
+    }
+
+}
+
+
+@media screen and (max-width:767px){
+   nav .logo{
+    width:10rem;
+}
+    
+    .main-nav ul li{
+        display: block;
+        text-align: center;
+        padding-bottom: .4rem;
+    }
+    .main-nav ul li:hover{
+        background:none;
+    }
+    .inner-img-text{
+    padding-bottom: 3rem;
+}
+    .main-nav .active{
+        background:transparent;
+    }
+    .header-title h1{
+        font-size: 2.3rem;
+        line-height: 3.5rem;
+    }
+}
+@media screen and (max-width:576px){
+    .header-title h1{
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
+    .header-title .btn{
+        padding: .8rem 2rem;
+         font-size: 1.4rem;
+    }
+    .about-section{
+        text-align: center;
+    }
+    .about-section .image-outer{
+    padding-bottom:3rem;
+    float:none;;
+}
+    
+    
+    .main-nav ul li{
+        display: block;
+        text-align: center;
+    }
+     form input[type="submit"]{
+         padding: .9rem 2rem;
+        font-size: 1rem;
+    }
+    .footer-section li a{
+        font-size: 1rem;
+    }
+    .footer-section  li{
+        margin:0.1rem;
+    }
+    .load a {
+    padding: .7rem 1rem;
+    font-size: .8rem;
+   }
+    .port-image {
+        padding:1rem 1rem;
+        width:50%;
+    }
+    nav .logo{
+    width:10rem;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:360px){
+    nav .logo{
+    width:8rem;
+}
+    
+    
+    .port-image {
+        padding:1rem 1rem;
+        width:50%;
+    }
+    .portfolio-title p{
+        font-size:1.2rem;
+    }
+    .portfolio-button button{
+         padding: .3rem .5rem;
+        font-size: 1rem;
+    }
+    .footer-section  li{
+        margin:0.1rem;
+    }
+    
+    .load a{
+         padding:.7rem 1rem;
+            font-size:.8rem;
+
+    }
+    form input[type="submit"]{
+         padding: .9rem 2rem;
+        font-size: 1rem;
+    }
+    .footer-section li a{
+        font-size: 1rem;
+    }
+}
